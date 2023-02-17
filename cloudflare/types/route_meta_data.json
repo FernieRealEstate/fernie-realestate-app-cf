@@ -1,6 +1,0 @@
-{
-	"/": [],
-	"/random": [
-		"src/routes/random/+server.ts"
-	]
-}
